@@ -44,8 +44,7 @@ let data = [
 ];
 
 var cuteIcon = new L.Icon({
-  iconUrl:
-    "https://freepikpsd.com/wp-content/uploads/2019/10/map-icon-vector-png-5-Transparent-Images-Free.png",
+  iconUrl: "assets/img/location-pin.png",
   iconSize: [30, 30],
 });
 
